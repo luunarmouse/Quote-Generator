@@ -1,3 +1,3 @@
-# template-test
+# Quote-Generator
 
-Nothing to see here....
+Generates a random quote.
